@@ -31,8 +31,8 @@ let cTemp2 = kTemp1 - 273.15;
 console.log(`\n${fTemp1}°F is equals to ${cTemp1}°C`);
 console.log(`${fTemp1}°F is equals to ${kTemp1}K`);
 
-console.log(`\n${cTemp1}°C is equals to ${fTemp2}°F`)
-console.log(`${cTemp1}°C is equals to ${kTemp2}K`)
+console.log(`\n${cTemp1}°C is equals to ${fTemp2}°F`);
+console.log(`${cTemp1}°C is equals to ${kTemp2}K`);
 
-console.log(`\n${kTemp1}K is equals to ${fTemp3}°F`)
-console.log(`${kTemp1}K is equals to ${cTemp2}°C`)
+console.log(`\n${kTemp1}K is equals to ${fTemp3}°F`);
+console.log(`${kTemp1}K is equals to ${cTemp2}°C`);
